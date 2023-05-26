@@ -2,9 +2,9 @@
 #include "Header_two.hpp"
 
 int main() {
-	//first namespace
-	nspace_first::print();
 	
+	nspace_first::print();
+	//second namespace
 	nspace_second::print();
 	return 0;
 }
